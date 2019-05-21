@@ -15,3 +15,6 @@ Over
 *  *  *
 ### NO.5  Git-Book --  Reading Note
 >Git book 中文版 https://git-scm.com/book/zh/v2
+*  *  *
+### NO.6  SSH原理与运用 --  Reading Note
+>阮一峰的网络日志 http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html
