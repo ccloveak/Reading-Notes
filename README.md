@@ -26,3 +26,6 @@ End.
 ### NO.7  Matplotlib可视化最有价值的 50 个图表 --  Reading Note
 >Python数据之道 http://liyangbit.com/pythonvisualization/matplotlib-top-50-visualizations/    
 Read the first table,but I can't understand it,I need learn more base knowledge.
+*  *  *
+### NO.8  KNOWLEDGE BASE
+SSH key
