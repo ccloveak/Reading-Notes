@@ -6,7 +6,7 @@ Chapter 1 Chapter 2 notes
 *  *  * 
 ### NO.2  小甲鱼 《零基础入门学习Python》课后题整理 -- Learning PYTHON
 >鱼c论坛  https://fishc.com.cn/forum-243-1.html  
-Class1 to Class13 notes
+Class1~Class13 notes
 *  *  * 
 ### NO.3  Python 数据分析师必备的入门学习路线和技能  --  Reading Note
 >gitchat https://gitbook.cn/gitchat/activity/5cb6f46e1c5b6f6eb7f515bb    
@@ -17,7 +17,8 @@ End.
 *  *  *
 ### NO.5  Git-Book --  Reading Note
 >Git book 中文版 https://git-scm.com/book/zh/v2  
-Chapter 1 note
+Chapter 1~2  note  
+Table is not displayed correctly，Maybe should open with colab.
 *  *  *
 ### NO.6  SSH原理与运用 --  Reading Note
 >阮一峰的网络日志 http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html  
