@@ -33,3 +33,8 @@ SSH key
 *  *  *
 ### NO.9  Raspberry Pie base  
 >树莓派小无相系列 https://zhuanlan.zhihu.com/raspi
+Basic initialization 
+*  *  *
+### NO.10 PyDrive Base
+>PyDrive https://pythonhosted.org/PyDrive/
+在学习NO.4过程中需要对文件进行操作，寻找用python操作google drive的方法  
