@@ -29,4 +29,7 @@ End.
 Read the first table,but I can't understand it,I need learn more base knowledge.
 *  *  *
 ### NO.8  KNOWLEDGE BASE
-SSH key
+SSH key  
+*  *  *
+### NO.9  Raspberry Pie base  
+>树莓派小无相系列 https://zhuanlan.zhihu.com/raspi
