@@ -32,7 +32,7 @@ Read the first table,but I can't understand it,I need learn more base knowledge.
 SSH key  
 *  *  *
 ### NO.9  Raspberry Pie base  
->树莓派小无相系列 https://zhuanlan.zhihu.com/raspi
+>树莓派小无相系列 https://zhuanlan.zhihu.com/raspi  
 Basic initialization 
 *  *  *
 ### NO.10 PyDrive Base
