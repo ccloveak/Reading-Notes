@@ -1,6 +1,6 @@
 # I will write notes with colab,hope i can keep going.
 *  *  * 
-### NO.1  ゼロから作るDeep Learning  --  Reading Note
+### NO.1  [ゼロから作るDeep Learning](https://github.com/ccloveak/Study_Notes/blob/master/deep_learning_from_scratch.ipynb) --  Reading Note
 >https://github.com/oreilly-japan/deep-learning-from-scratch  
 Chapter 1 Chapter 2 notes
 *  *  * 
