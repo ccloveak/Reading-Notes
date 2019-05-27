@@ -42,3 +42,6 @@ Basic initialization
 ### NO.11 Function in Matlab for Machine Learning
 >coursera https://www.coursera.org/learn/machine-learning/  
 week 2 编程作业中遇到的函数，初步整理
+*  *  *
+### NO.12 coursera machine learning note
+>coursera https://www.coursera.org/learn/machine-learning/  
