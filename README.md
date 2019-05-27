@@ -13,7 +13,8 @@ Class1~Class13 notes
 End.
 *  *  * 
 ### NO.4  Python核心技术与实战  --  Reading Note
->极客时间 https://time.geekbang.org/column/intro/176
+>极客时间 https://time.geekbang.org/column/intro/176  
+每周1 3 5 更新
 *  *  *
 ### NO.5  Git-Book --  Reading Note
 >Git book 中文版 https://git-scm.com/book/zh/v2  
