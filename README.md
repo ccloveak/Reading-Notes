@@ -50,3 +50,7 @@ week 2 编程作业中遇到的函数，初步整理
 ### NO.13 [一小时入门 Python 3 网络爬虫](https://github.com/ccloveak/Study_Notes/blob/master/%E4%B8%80%E5%B0%8F%E6%97%B6%E5%85%A5%E9%97%A8_Python_3_%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB.ipynb)  --  Reading Note
 >gitchat https://gitbook.cn/gitchat/activity/59b09bbf015c905277c2cc09  
 End.只是思路，排版比较乱，代码因为时效问题已经过期，不过重要的还是思路
+*  *  *
+### NO.14 廖雪峰python教程 --  Reading Note
+>廖雪峰python教程 https://www.liaoxuefeng.com/wiki/1016959663602400
+
