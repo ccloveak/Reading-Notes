@@ -51,6 +51,6 @@ week 2 编程作业中遇到的函数，初步整理
 >gitchat https://gitbook.cn/gitchat/activity/59b09bbf015c905277c2cc09  
 End.只是思路，排版比较乱，代码因为时效问题已经过期，不过重要的还是思路
 *  *  *
-### NO.14 廖雪峰python教程 --  Reading Note
+### NO.14 [廖雪峰python教程](https://github.com/ccloveak/Study_Notes/blob/master/liaoxuefeng_python.ipynb) --  Reading Note
 >廖雪峰python教程 https://www.liaoxuefeng.com/wiki/1016959663602400
-
+通过多个渠道，反复看python基础，有种恍然大悟的感觉
