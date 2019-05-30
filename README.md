@@ -54,3 +54,7 @@ End.只是思路，排版比较乱，代码因为时效问题已经过期，不�
 ### NO.14 [廖雪峰python教程](https://github.com/ccloveak/Study_Notes/blob/master/liaoxuefeng_python.ipynb) --  Reading Note
 >廖雪峰python教程 https://www.liaoxuefeng.com/wiki/1016959663602400  
 通过多个渠道，反复看python基础，有种恍然大悟的感觉
+*  *  *
+### NO.15 [A Byte of Python](https://github.com/ccloveak/Study_Notes/blob/master/A_Byte_of_Python.ipynb)  --  Reading Note
+>简明 Python 教程 https://legacy.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details  
+面向对象编程
