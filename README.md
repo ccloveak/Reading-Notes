@@ -16,7 +16,7 @@ End. I know i must learn python Matplotlib Pandas and Maths if I want to be Data
 >极客时间 https://time.geekbang.org/column/intro/176  
 每周1 3 5 更新
 *  *  *
-### NO.5  [Git-Book](https://github.com/ccloveak/Study_Notes/blob/master/GitBook.ipynb) --  Reading Note
+### NO.5  [Git](https://github.com/ccloveak/Study_Notes/blob/master/Git.ipynb) --  Reading Note
 >Git book 中文版 https://git-scm.com/book/zh/v2    
 Table is not displayed correctly，Maybe should open with colab.
 *  *  *
