@@ -58,3 +58,6 @@ Read it many times and every time there is a harvest.
 ### NO.15 [A Byte of Python](https://github.com/ccloveak/Study_Notes/blob/master/A_Byte_of_Python.ipynb)  --  Reading Note
 >简明 Python 教程 https://legacy.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details  
 End.This is a basic python tutorial and let me can understand other's python code.Thank Swaroop and thank 漠伦. 
+*  *  *
+### NO.16  [Python programming example](https://github.com/ccloveak/Study_Notes/blob/master/python%E7%BC%96%E7%A8%8B%E9%80%9F%E6%9F%A5.ipynb)
+Record code.
