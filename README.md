@@ -18,7 +18,7 @@ End. I know i must learn python Matplotlib Pandas and Maths if I want to be Data
 *  *  *
 ### NO.5  [Git](https://github.com/ccloveak/Study_Notes/blob/master/Git.ipynb) --  Reading Note
 >Git book 中文版 https://git-scm.com/book/zh/v2    
-Table is not displayed correctly，Maybe should open with colab.
+End. I can't understand more with only read book.
 *  *  *
 ### NO.6  [SSH原理与运用](https://github.com/ccloveak/Study_Notes/blob/master/SSH%E5%8E%9F%E7%90%86%E4%B8%8E%E8%BF%90%E7%94%A8.ipynb) --  Reading Note
 >阮一峰的网络日志 http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html  
