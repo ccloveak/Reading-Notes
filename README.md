@@ -61,3 +61,6 @@ End.This is a basic python tutorial and let me can understand other's python cod
 *  *  *
 ### NO.16  [Python programming example](https://github.com/ccloveak/Study_Notes/blob/master/python%E7%BC%96%E7%A8%8B%E9%80%9F%E6%9F%A5.ipynb)
 Record code.
+*  *  *
+### NO.17 [colab control google](https://github.com/ccloveak/Study_Notes/blob/master/colab_control_google_drive.ipynb) 
+>External data: Drive, Sheets, and Cloud Storage https://colab.research.google.com/notebooks/io.ipynb#scrollTo=eikfzi8ZT_rW
