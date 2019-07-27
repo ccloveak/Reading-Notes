@@ -64,3 +64,7 @@ Record code.
 *  *  *
 ### NO.17 [colab control google driver](https://github.com/ccloveak/Study_Notes/blob/master/colab_control_google_drive.ipynb)   
 >External data: Drive, Sheets https://colab.research.google.com/notebooks/io.ipynb#scrollTo=eikfzi8ZT_rW
+*  *  *
+### NO.18 [gitchat总结](https://github.com/ccloveak/Study_Notes/blob/master/gitchat%E6%80%BB%E7%BB%93.ipynb)
+>gitchat https://gitbook.cn/  
+Impression after read gitchat
